@@ -1,0 +1,80 @@
+body {background-color: #ABACEF;
+      border-style: inset;
+      font-family: "Times New Roman", Times, serif;
+     }
+td.welcome {text-shadow: 0px 0px 7px #000000;
+            font-style:italic;
+            color: #0000fe;
+            font-weight:bold;
+            font-size:30pt;
+            padding-left:1em;
+            text-align:center;
+            letter-spacing:-.05rem;
+            }
+table.a {width: 100%;        
+        }
+table.menu {border-style:dotted;
+            border-color: #040453;
+            border-width:thick;
+            
+           }
+            
+td.menuText {background-color:#050666;
+             font-style:italic;
+             text-decoration:underline;
+             color:#ffffff;
+             text-align:right;
+             font-size:16px;
+             padding-top:3px;
+             padding-bottom:5px;
+             padding-left:3px;
+             padding-right:2px;
+            }
+td.menuArrow{background-color:#242088;
+            }
+td.welcomeToOz{font-style:italic;
+                font-family: Arial, Helvetica, sans-serif;
+                letter-spacing:.05rem;
+                font-weight: 100;
+              }
+td.wizard {box-shadow:0px -2px #423d44;
+           border-style:solid;
+           border-color: #08097c;
+           border-width:medium;
+          }
+td.infoPanel{text-align:left;
+             vertical-align:top;
+             overflow-y:scroll;
+             height:120px;
+             font-style:italic;
+             font-weight: 100;
+             font-family: Arial, Helvetica, sans-serif;
+             border-style:inset;
+             border-color:#ffffff;
+             border-width:2px;
+            }
+span.select {background-color: #bd9dff;
+             border-style:solid;
+             border-color: #08097c;
+             font-size:15pt;
+             font-weight:bold;
+             color:#1618d2;
+             font-style:italic;
+             padding-left:7px;
+             padding-right:10px;
+             text-align:center;
+             border-width:medium;
+            }
+tr.bottom {background-image: linear-gradient(#ABACEF, black);
+          }
+table.bottom{border-spacing: 15px 15px;
+            }
+td.bottom{border-style:none solid ;
+          border-width:1.5px;
+          border-color:#000000;
+          color: #FFFFFF;
+          text-decoration:underline;
+          font-style:italic;
+          font-size:11px;
+          letter-spacing:.05rem;
+         }
